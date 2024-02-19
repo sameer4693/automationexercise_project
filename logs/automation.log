@@ -1,0 +1,21 @@
+07:03:09.488 [main] INFO  testcases.TC_001_clickingnewregistraton - ***********starting TC_001_clickingnewregistration*********
+11:42:40.532 [main] INFO  testcases.TC_002_Newusersignup - ***********starting TC_002_Newusersignup**********
+11:42:58.823 [main] INFO  testcases.TC_002_Newusersignup - ************clicking newusersignup*********
+11:43:03.713 [main] INFO  testcases.TC_002_Newusersignup - *********finishing TC_002_Newusersignup*************
+11:51:50.011 [main] INFO  testcases.TC_002_Newusersignup - ***********starting TC_002_Newusersignup**********
+11:52:01.368 [main] INFO  testcases.TC_002_Newusersignup - ************clicking newusersignup*********
+11:52:15.565 [main] INFO  testcases.TC_002_Newusersignup - *********finishing TC_002_Newusersignup*************
+11:53:36.830 [main] INFO  testcases.TC_003_enteraccinformation - ************startingTC_003_enteraccinformation***************
+11:53:43.805 [main] INFO  testcases.TC_003_enteraccinformation - ************clicking newusersignup*********
+11:53:55.408 [main] INFO  testcases.TC_003_enteraccinformation - ***************passing values for enter account information***************
+12:00:02.685 [main] INFO  testcases.TC_003_enteraccinformation - ************startingTC_003_enteraccinformation***************
+12:00:11.926 [main] INFO  testcases.TC_003_enteraccinformation - ************clicking newusersignup*********
+12:00:21.551 [main] INFO  testcases.TC_003_enteraccinformation - ***************passing values for enter account information***************
+12:00:35.114 [main] INFO  testcases.TC_003_enteraccinformation - **************finishingTC_003_enteraccinformation***************
+12:11:32.070 [main] INFO  testcases.TC_003_enteraccinformation - ************startingTC_003_enteraccinformation***************
+12:11:51.832 [main] INFO  testcases.TC_003_enteraccinformation - ************clicking newusersignup*********
+12:12:00.681 [main] INFO  testcases.TC_003_enteraccinformation - ***************passing values for enter account information***************
+12:12:10.085 [main] INFO  testcases.TC_003_enteraccinformation - **************finishingTC_003_enteraccinformation***************
+12:41:18.396 [main] INFO  testcases.TC_004_login - **********startingTC_004_login**********
+12:44:39.418 [main] INFO  testcases.TC_004_login - **********startingTC_004_login**********
+12:59:47.056 [main] INFO  testcases.TC_005_Log_out - **********startingTC_005_log_out***************
